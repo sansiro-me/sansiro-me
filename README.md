@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tooeast)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tooeast&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&card_width=445&hide_title=true)](https://www.tooeast.com)
 
 <!--
 **sansiro-me/sansiro-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
